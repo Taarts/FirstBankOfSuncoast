@@ -23,7 +23,7 @@ create a CSV file to store the transactions and produce the sum of the transacti
 App:
 Store history of transactions in a single "List<Transaction>".
 
-- design a Transaction class to support both checking ans savings as well as deposits and withdrawals.
+- design a Transaction class to support both checking and savings as well as deposits and withdrawals.
   - deposits (see AddEmployee - SHR)
 - load past transactions from file. (see FindOneEmployee - SHR)
 - cannot withdraw more than available funds in any account (FirstOrDefault)
